@@ -1,6 +1,6 @@
 # My Portfolio
 
-Welcome to my portfolio! Here you will find projects I have worked on:
+Welcome to my portfolio! Here you will find projects I have worked on.
 
 ## 🚀 Main Projects
 1. **RPG To Do List**:
@@ -13,15 +13,16 @@ Welcome to my portfolio! Here you will find projects I have worked on:
 3. **Telegram Bot Website (under construction)**:
     - The project will showcase the bot’s features and functionalities.
 
-## 🤖 Experience with Telegram bots
-- Worked on two commercial projects, creating and supporting Telegram bots.
-- Developed and support my personal project - Telegram bot **RPG To Do List**, which helps users manage tasks in a game format.
-
 ## 💼 Skills and technologies
 - Web development: HTML, CSS, JavaScript.
 - Telegram Bot API, Aiogram.
 - Databases: MySQL.
 - Experience in software testing and quality assurance: API testing using Postman. Positive, negative tests. Functional, non-functional testing. Devtools, Jira.
+
+## 🤖 Experience with Telegram bots
+- Worked on two commercial projects, creating and supporting Telegram bots.
+- Developed and support my personal project - Telegram bot **RPG To Do List**, which helps users manage tasks in a game format.
+
 
 ## 🌟 Commercial achievements
 - 	In 2 days fixed a critical bug that other developers could not solve for more than a month!
