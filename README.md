@@ -1,47 +1,29 @@
-# My Portfolio
+Hi, I'm Vladislav (ifeelnothing)
 
-Welcome to my portfolio! Here you will find projects I have worked on.
+I make games. Formerly toonterpole.
 
-## 🚀 Main Projects
-1. **RPG To Do List**:
-    - A Telegram bot that gamifies productivity management.
-    - Users can manage tasks in a game-like format, leveling up, unlocking transformations, and using a personalized inventory system.
-    - Built with Python and the Aiogram library. Includes integration with Telegram Bot API, Crypto Bot API and database storage for user progress.
-2. **Personal Website**: 
-    - My online profile created to introduce myself and my skills.
-    - Built with HTML, CSS, and basic JavaScript. Includes a responsive design and interactive elements.
-3. **Telegram Bot Website (under construction)**:
-    - The project will showcase the bot’s features and functionalities.
+Released
 
-## 💼 Skills and technologies
-- Web development: HTML, CSS, JavaScript.
-- Telegram Bot API, Aiogram.
-- Databases: MySQL.
-- Experience in software testing and quality assurance: API testing using Postman. Positive, negative tests. Functional, non-functional testing. Devtools, Jira.
+Containment Breach: a hacking game in an old green terminal. Windows, on itch.io. Trailer
 
-## 🤖 Experience with Telegram bots
-- Worked on two commercial projects, creating and supporting Telegram bots.
-- Developed and support my personal project - Telegram bot **RPG To Do List**, which helps users manage tasks in a game format.
+You raise your own AI and breach the system from the inside by typing commands by hand.
+Incremental progression: gather data, level the AI up, unlock new abilities.
+The stronger the AI gets, the more it gets noticed. Hardware overheats if you push it too fast, and the system hacks back in real time, so you have to figure out what's happening and react.
+The AI talks to you on its own and doesn't always say what you expect.
+Two endings. You get the one your playthrough led to.
+In progress
 
+residual-self: a first-person game with a low-poly, early-3D look. Screenshots are on my website.
 
-## 🌟 Commercial achievements
-- 	In 2 days fixed a critical bug that other developers could not solve for more than a month!
+Skills
+Game development: Unity, C#
+Python: Telegram bots with Aiogram, Telegram Bot API, payment integration via Crypto Bot API
+Databases: MySQL
+Web: HTML, CSS, JavaScript, responsive layouts
+QA: functional and non-functional testing, positive and negative test cases, API testing in Postman, DevTools, Jira
 
-## 📈 My professional growth and plans
-- Currently working on a website for my project and an update for my Telegram bot.
-- Deepening my knowledge of JavaScript and improving my testing skills.
-- Fun Fact: I turned productivity management into a game by creating an RPG To Do List bot!
-<!--
-**toonterpole/toonterpole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Before games I made Telegram bots (two of them commercial) and websites.
 
-Here are some ideas to get you started:
+Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website · itch.io · YouTube · amifeelnothing@gmail.com
